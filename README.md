@@ -33,5 +33,5 @@ After cloning the repo, <npm install> to install all dependencies.
 
 ## Links 
 GitHub: https://github.com/sevalc/eCommerce_Backend
-Video: 
-Heroku:
+Video: https://watch.screencastify.com/v/1EwFhEHYXH7Aj21SzWhw
+
